@@ -26,7 +26,7 @@
 <br>
 <br>
 
-<img width="769" alt="image" src="https://github.com/bardnia/Chatweb/assets/69304793/135c91d8-4565-4965-9a74-3d9725afad94">
+<img width="769" alt="image" src="https://github.com/bardnia/Chatweb/assets/69304793/56b8cde0-de71-467f-afc0-359799c19506">
 
 
 ### 4. URL 구조
